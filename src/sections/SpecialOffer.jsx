@@ -15,17 +15,19 @@ const SpecialOffer = () => {
         />
       </div>
       <div className='flex flex-1 flex-col'>
-        <h1 className='text-4xl  font-palanquin font-extrabold text-primary'>
-          <span  > UNLEASHING A NEW ERA OF  </span>
-          FITNESS 
-          <br/> <h2>USE CODE: <span className="border border-white border-solid pl-5 pr-5">NATURAL</span>
-          </h2> 
+        <h2 className='text-4xl font-palanquin font-extrabold'>
+            <span className='text-coral-red'>UNLEASHING A NEW ERA OF </span>
+            FITNESS
+        </h2>
+          <p className='mt-4 info-text'>
+          USE CODE: <span className="border border-coral-red border-solid pl-3 pr-3">NATURAL</span>
+          </p>
+          <p className='mt-6 info-text font-semibold'>
+          ON ALL NATURAL PRODUCTS
 
-          <br />
-           <h2 className="text-black">ON ALL NATURAL PRODUCTS</h2>
-
-           <br /> <h1 className="text-matt">TRUE. <span className="text-primary">TESTED.</span>TRUSTED</h1>
-        </h1> 
+          </p>
+          <p className='mt-6 info-text font-bold'>
+          TRUE. <span className="text-coral-red">TESTED.</span> TRUSTED.
 
         
         
