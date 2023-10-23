@@ -6,7 +6,7 @@ This project is a static landing page built using React and styled with Tailwind
 
 ## Live URL
 
-You can explore the live version of the project [here](https://eshans-protein-store.netlify.app/).
+You can explore the live version of the project [here](https://eshans-pro-store.netlify.app/).
 
 ## Screenshots
 
