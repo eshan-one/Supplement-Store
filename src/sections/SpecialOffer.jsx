@@ -28,6 +28,7 @@ const SpecialOffer = () => {
           </p>
           <p className='mt-6 info-text font-bold'>
           TRUE. <span className="text-coral-red">TESTED.</span> TRUSTED.
+          </p>
 
         
         
